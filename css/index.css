@@ -1,0 +1,16 @@
+body{margin: 0px;padding: 0px;background: #ecf0f3b0;}
+.maincontain{width: 800px;margin:auto;font-family: arial;}
+#vip{text-align: center;}
+#ripon {
+    margin: 72px 140px;}
+		.class1{color:blue; }
+		.class2{color:red; }
+		.class3{color:#08d008;}
+		.class4{color:yellow; }
+.maincontain img{ width: 100%;}
+.last{    background: #3fb90dfc;
+    font-size: 30px;
+    padding: 60px 90px;
+    /* margin: 0px 0px; */
+    margin-top: 40px;
+    color: #000000;}
